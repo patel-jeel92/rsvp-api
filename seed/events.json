@@ -1,0 +1,30 @@
+[
+{ 
+    "_id" : "5e4dead188ff6f204adc56a3", 
+    "name" : "Grah Shanti", 
+    "time" : "June 27, 2020 1:30 PM", 
+    "venue" : "Shree Shakti Mandir", 
+    "location" : "1450 Huie Rd, Lake City, GA 30260"
+},
+{ 
+    "_id" : "5e4deb1988ff6f204adc56b9", 
+    "name" : "Sangeet-Garba", 
+    "time" : "June 27, 2020 8:00 PM", 
+    "venue" : "Shree Shakti Mandir", 
+    "location" : "1450 Huie Rd, Lake City, GA 30260"
+},
+{ 
+    "_id" : "5e4deb5e88ff6f204adc56ce", 
+    "name" : "Wedding", 
+    "time" : "June 28, 2020 9:00 AM", 
+    "venue" : "Decatur Conference Center ATL", 
+    "location" : "130 Clairemont Ave, Decatur, GA 30030"
+},
+{ 
+    "_id" : "5e4deb7088ff6f204adc56d7", 
+    "name" : "Reception", 
+    "time" : "June 28, 2020 7:30 PM", 
+    "venue" : "Decatur Conference Center ATL", 
+    "location" : "130 Clairemont Ave, Decatur, GA 30030"
+}
+]
